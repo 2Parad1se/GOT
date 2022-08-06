@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App{
+    margin: 0 auto;
+    padding: 50px;
+    background: url('../../img/main_bg.jpg') center center/cover no-repeat;
+}
+.main {
+    width: 1200px;
+    height: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.randomChar{
+    width: 40%;
+}
+.randomChar {
+    width: 40%;
+}

@@ -1,0 +1,12 @@
+.header {
+    /* margin-top: 50px; */
+    display: flex;
+    justify-content: space-between;
+    font-size: 27px;
+    color: white
+}
+.header_link {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}

@@ -1,0 +1,34 @@
+.randomCharMenu{
+    margin-top: 300px;
+    width: 400px;
+}
+.content {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list {
+    width: 100%;
+}
+.randomCharItem_big {
+    height: 50px;
+    text-align: center;
+}
+
+.wrapper_buttons{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.hide {
+    display: none;
+}
+.show {
+    display: block;
+}
+.spinner {
+    /* margin: 0 auto; */
+    /* margin-top: 400px; */
+}

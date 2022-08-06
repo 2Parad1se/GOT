@@ -1,0 +1,8 @@
+.listCharactersMenu{
+    /* margin-top: 300px; */
+    width: 400px;
+}
+.list_item {
+    cursor: pointer;
+    user-select: none;
+}
